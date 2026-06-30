@@ -1,0 +1,3 @@
+[submodule "static/pgconfdev-slideshow"]
+	path = static/pgconfdev-slideshow
+	url = git@github.com:tvondra/pgconfdev-slideshow.git
