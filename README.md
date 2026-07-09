@@ -84,6 +84,16 @@ it uses a WebSocket connection to push updates or trigger a full browser
 reload—no manual refresh needed, assuming the filesystem supports native watch
 events.
 
+Checking-out the Photo Slideshow
+--------------------------------
+
+The slideshow lives in its own repo, which is a git submodule here.
+Bring it in with:
+```bash
+git submodule init
+git submodule update
+```
+
 Building
 --------
 
